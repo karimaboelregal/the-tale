@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634315841871",
+    "project_id": "the-tale-6adb3",
+    "storage_bucket": "the-tale-6adb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634315841871:android:ac278f14bf1e1853dbe53a",
+        "android_client_info": {
+          "package_name": "com.example.thetale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634315841871-i2a9v3kojuubo3sv3jf9hm5c2if1s8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUy_4W1yza-RVFA_DmHL6V2WHYld1cx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634315841871-i2a9v3kojuubo3sv3jf9hm5c2if1s8nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
